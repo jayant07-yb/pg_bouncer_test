@@ -1,0 +1,10 @@
+{
+    "connections": [
+        {
+            "process_start_time": "2022-06-13 14:25:05.378811+00",
+            "application_name": "",
+            "backend_type": "checkpointer",
+            "backend_status": ""
+        }
+    ]
+}

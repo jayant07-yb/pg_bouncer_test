@@ -1,2 +1,10 @@
+com/yugabyte/TestPhase1.class
+com/yugabyte/TestObject.class
+com/yugabyte/Tester2.class
 com/yugabyte/App.class
 com/yugabyte/HelloSqlApp.class
+com/yugabyte/TestPreparedStatement.class
+com/yugabyte/Tester.class
+com/yugabyte/TestPhase2.class
+com/yugabyte/TestReturn.class
+com/yugabyte/pgbouncer_prepared_statement_test.class

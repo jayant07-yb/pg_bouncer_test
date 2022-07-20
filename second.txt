@@ -1,0 +1,122 @@
+{
+    "connections": [
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:01.08377+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43834"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:01.396739+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43838"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:01.730353+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43842"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:02.063325+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43846"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:02.397219+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43850"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "process_start_time": "2022-06-14 12:53:02.73053+00",
+            "application_name": "",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.1.140",
+            "port": "43854"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "query": "SET application_name = 'PostgreSQL JDBC Driver'",
+            "process_start_time": "2022-06-14 13:52:18.935718+00",
+            "query_start_time": "2022-06-14 13:52:19.469317+00",
+            "application_name": "PostgreSQL JDBC Driver",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.4.254",
+            "port": "35368"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "query": "SET application_name = 'PostgreSQL JDBC Driver'",
+            "process_start_time": "2022-06-14 13:52:19.926944+00",
+            "query_start_time": "2022-06-14 13:52:20.274698+00",
+            "application_name": "PostgreSQL JDBC Driver",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.150.4.254",
+            "port": "35910"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "query": "select count(*) from employee ;",
+            "process_start_time": "2022-06-14 07:18:51.181089+00",
+            "query_start_time": "2022-06-14 08:29:19.366122+00",
+            "application_name": "ysqlsh",
+            "backend_type": "client backend",
+            "backend_status": "idle",
+            "host": "10.160.1.234",
+            "port": "63418"
+        },
+        {
+            "db_oid": 16385,
+            "db_name": "db1",
+            "query": "INSERT INTO employee VALUES ($1, 'John', 35, 'Prepared_Statement')",
+            "process_start_time": "2022-06-14 13:52:20.927023+00",
+            "process_running_for_ms": 30953,
+            "transaction_start_time": "2022-06-14 13:52:51.879465+00",
+            "transaction_running_for_ms": 0,
+            "query_start_time": "2022-06-14 13:52:51.879523+00",
+            "query_running_for_ms": 0,
+            "application_name": "PostgreSQL JDBC Driver",
+            "backend_type": "client backend",
+            "backend_status": "active",
+            "host": "10.150.4.254",
+            "port": "37360"
+        },
+        {
+            "process_start_time": "2022-06-13 14:25:17.497084+00",
+            "application_name": "",
+            "backend_type": "checkpointer",
+            "backend_status": ""
+        }
+    ]
+}
